@@ -1,4 +1,4 @@
-###Project Mayday | CosmOS Development and Operation Report
+#Project Mayday | CosmOS Development and Operation Report
 Project Lead: ■■■■
 
 《Overview of the Humanoid Exploration Unit "CosmOS"》
@@ -18,7 +18,7 @@ Following a review of the project's security protocols, it is recommended that t
 
 --------------------------------------------------------
 
-###Project Mayday| CosmOS 開発・運用報告
+#Project Mayday| CosmOS 開発・運用報告
 担当研究員：■■■■
 
 《宇宙環境における移住可能惑星の探索、および移住可能環境の創出を目的とした人型探索機「CosmOS」について》
