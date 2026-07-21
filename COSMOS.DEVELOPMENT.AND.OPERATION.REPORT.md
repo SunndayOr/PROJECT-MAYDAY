@@ -1,24 +1,35 @@
-#Project Mayday | CosmOS Development and Operation Report
+### Project Mayday | CosmOS Development and Operation Report
+
 Project Lead: ■■■■
 
+
 《Overview of the Humanoid Exploration Unit "CosmOS"》
+
 The CosmOS Humanoid Exploration Unit was developed for the exploration of habitable planets and the construction of sustainable environments for future human settlement.
 
 **Features**
+
 ・The primary computational system utilizes the CALCv2-CORE, developed by ■■ Corporation. In addition, the unit is equipped with the proprietary IDEA-CORE, a cognitive simulation processor responsible for synthetic biological and behavioral functions.
+
 ・To improve adaptability across diverse planetary environments, bio-synthetic hardware incorporates selected genetic material derived from multiple extraterrestrial lifeforms.
 
+
 **Challenges**
+
 ・No critical malfunctions have been observed in the current prototype units. However, conflicts between the computational architectures of the CALCv2-CORE and IDEA-CORE have made it extremely difficult to develop a unit capable of maintaining both advanced rational decision-making and stable pseudo-emotional behavior simultaneously.
+
 ・Operation of the IDEA-CORE has resulted in several prototype units exhibiting pseudo-emotional responses resembling existential conflict or self-identity instability. Although these responses are artificially generated, their potential impact on long-term mission performance cannot be dismissed. Consequently, when both computational systems are operated concurrently, it is recommended that the operational capacity of either the CALCv2-CORE or IDEA-CORE be selectively reduced according to mission requirements.
 
-Addendum
+
+**Addendum**
+
 The Artificial Life Ethics Committee has submitted a petition opposing the development of artificial lifeforms capable of advanced pseudo-emotional behavior.
+
 Following a review of the project's security protocols, it is recommended that the CosmOS Development Program be redesignated as a classified program, with all subsequent research and development conducted under restricted access.
 
 --------------------------------------------------------
 
-#Project Mayday| CosmOS 開発・運用報告
+### Project Mayday| CosmOS 開発・運用報告
 担当研究員：■■■■
 
 《宇宙環境における移住可能惑星の探索、および移住可能環境の創出を目的とした人型探索機「CosmOS」について》
